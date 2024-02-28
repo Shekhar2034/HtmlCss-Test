@@ -1,0 +1,277 @@
+
+
+.main{
+    max-width: 100%;
+}
+
+.offer{
+    border: 1px solid black;
+    width: 100%;
+    height: 40px;
+    background-color: black;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+#txt{
+    text-align: center;
+    color: white; 
+    font-family: AdihausDIN, Helvetica, Arial, sans-serif;
+    font-size: 13px;
+    /* position: relative; */
+    /* top: 5px; */
+    font-weight: bold;
+}
+
+#navbar{
+    position: relative;
+    top: 50px;
+    display: flex;
+    /* height: 20px; */
+}
+
+#logo{
+    width: 30%;
+    /* border: 1px solid black; */
+    /* top: 20px; */
+}
+
+#hw{
+    height: 70px;
+    width: 20%;
+}
+
+#navs{
+    width: 38%;
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-family: AdihausDIN, Helvetica, Arial, sans-serif;
+    font-size: 15px;
+}
+
+#search{
+    width: 19%;
+    /* border: 1px solid black; */
+    /* padding-top: 15px; */
+    /* justify-content: center; */
+    align-items:flex-end;
+    /* ; */
+}
+
+#sear{
+    position: relative;
+    top: 15px;
+    left: 30px;
+}
+
+#icons{
+    width: 10%;
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#right{
+    display: flex;
+    position: relative;
+    width: 20%;
+    margin: auto;
+    top: 50px;
+    right: 0px;
+    justify-content:space-around;
+    margin-right: 10px;
+}
+
+.box1{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border: 1px solid black;
+    border: none;
+    height: 360px;
+    position: relative;
+    top: 15vh;
+    left: 20vh;
+    width: 16%;
+}
+
+#flex{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* gap: 50px; */
+    padding: 0 10px;
+    padding-bottom: 5px;
+    font-family: AdihausDIN, Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    font-weight: 500;
+}
+
+#flex:hover{
+    border: 1px solid black;
+    background-color: black;
+    color: white;
+    text-decoration: underline;
+}
+
+#flexs{
+    position: relative;
+    left: 15px;
+    font-family: AdihausDIN, Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    font-weight: 500;
+    padding-bottom: 3px;
+}
+
+#flexs:hover{
+    border: 1px solid black;
+    width: 14rem;
+    background-color: black;
+    color: white;
+    text-decoration: underline;
+}
+
+#left{
+    position: relative;
+    left: 5px;
+}
+
+.flexy{
+    gap: 50px;
+    justify-content: space-evenly;
+}
+
+#down{
+    position: relative;
+    top: 5.5rem;
+    left: 9rem;
+    font-family: AdineuePRO, Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    font-weight: bolder;
+}
+
+.box2{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border: 1px solid black;
+    border: none;
+    height: 1200px;
+    margin: auto 480px;
+    position: absolute;
+    top: 12rem;
+    width: 60%;
+}
+
+#cont{
+    font-family: AdineuePRO, Helvetica, Arial, sans-serif;
+    position: relative;
+    left: 25px;
+}
+
+#position{
+    position: relative;
+    top: 5vh;
+    left: 25px;
+}
+
+#h3{
+    font-family: AdihausDIN, Helvetica, Arial, sans-serif;
+    font-size: 30px;
+}
+
+#p{
+    font-family: AdihausDIN, Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+#post{
+    position: relative;
+    top: 10vh;
+    left: 25px;
+    font-family: AdihausDIN, Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+#postS{
+    position: relative;
+    top: 15vh;
+    left: 25px;
+    font-family: AdihausDIN, Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+#posting{
+    position: relative;
+    top: 20vh;
+    left: 25px;
+    font-family: AdihausDIN, Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+#fled{
+    border: 1px solid black;
+    width: 45%;
+    display: flex;
+    position: relative;
+    top: 20vh;
+    left: 25px;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+    font-family: AdihausDIN, Helvetica, Arial, sans-serif;
+    font-family: AdineuePRO, Helvetica, Arial, sans-serif;
+    font-weight: bold;
+}
+
+#max{
+    position: relative;
+    top: 22vh;
+    left: 25px;
+    font-family: AdihausDIN, Helvetica, Arial, sans-serif;
+    font-family: AdineuePRO, Helvetica, Arial, sans-serif;
+}
+
+#last{
+    position: relative;
+    top: 21vh;
+    left: 25px;
+    font-family: AdihausDIN, Helvetica, Arial, sans-serif;
+    font-family: AdineuePRO, Helvetica, Arial, sans-serif;  
+}
+
+.box3{
+    border: 1px solid black;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border: none;
+    height: 130px;
+    position: relative;
+    top: 59rem;
+    width: 61%;
+    margin: auto 480px;
+}
+
+
+#content{
+    position: relative;
+    top: 58rem;
+    left: 30rem;
+    font-family: AdihausDIN, Helvetica, Arial, sans-serif;
+    font-family: AdineuePRO, Helvetica, Arial, sans-serif; 
+}
+
+.fled3{
+    display: flex;
+    gap: 50px;
+    font-family: AdihausDIN, Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    position: relative;
+    left: 20px;
+    /* justify-content: space-around; */
+}
+
